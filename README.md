@@ -1,4 +1,4 @@
 # github-lesson1
 This is my first repository.
 <br>
-srikanth nayak
+srikanth nayak computer science
